@@ -4,8 +4,8 @@ This repository contains the official versioned documents of the ZAXIS structura
 
 ## Available Versions
 
-- 📄 [MSG-6-v1.0-EN.pdf](./MSG-6-v1.0-EN.pdf) – English version
-- 📄 [MSG-6-v1.0-JP.pdf](./MSG-6-v1.0-JP.pdf) – Japanese version
+- 📄 [MSG-6_EN.pdf](./MSG-6_EN.pdf) – English version
+- 📄 [MSG-6_JP.pdf](./MSG-6_JP.pdf) – Japanese version
 
 ## Declaration
 
